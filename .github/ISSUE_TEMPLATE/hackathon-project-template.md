@@ -17,11 +17,14 @@ Main idea and context
 What different types of people could contribute?
 
 ## Integration
-How would your project integrate a neuroimager/clinician/psychologist/computational scientist/maker/artist as collaborator? You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
+How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as collaborator?
+
+You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
+
 Try to define intermediate goals (milestones).  
 
 ## Preparation material
-Provide links to preparation material / online tutorials. You can, for example, have a look at our [list of online tutorials](Tutorial_Resources.md).
+Provide links to preparation material / online tutorials. You can, for example, have a look at the [OHBM  list of online tutorials](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md).
 
 
 ## Link to your GitHub repo
@@ -34,6 +37,9 @@ Provide links to preparation material / online tutorials. You can, for example, 
         &nbsp;&nbsp;&nbsp;&nbsp;* [Contributors.md](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/), to specify which types of people can contribute how.
 
 ## Communication
-Link to the communication channel for your project. You can, for example, create a [Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon) for your project inside the Brainhack community, and include a Mattermost badge <br/>[![Mattermost30px](https://user-images.githubusercontent.com/6297454/64487455-57d52280-d23b-11e9-9dd4-e6d75bad44fc.png)](https://mattermost.brainhack.org/brainhack/channels/hbm-hackathon) to invite people to Brainhack Mattermost, where they can then find and join your channel.  
+Link to the communication channel for your project.
+
+You can, for example, create a Slack channel for your project inside the [OpenMR Slack Workspace](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU), and include a Slack badge <br/>[![Slack chat](https://img.shields.io/badge/chat-on%20slack-red)](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU) to invite people to OpenMR Slack, where they can then find and join your channel. 
+
 Or create a community on [gitter](https://gitter.im/) and link to the chat by including a Gitter badge linking to your community 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/yourRoom/Lobby#)
