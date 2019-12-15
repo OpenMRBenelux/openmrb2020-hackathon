@@ -13,8 +13,55 @@ assignees: ''
 ## Project Description
 Main idea and context.
 
+### Specific goal
+Try to describe what you want to achieve during this hackathon.
+
+For example:
+- implement a new feature for a package
+- make a python version of your matlab based toolbox
+- come up a prototype of standardized consent form that can be used by different labs
+- create an fantastic list of neuroscience ressources that will help generations of young researchers to come
+
 ## Skills required to participate
 What different types of people could contribute?
+
+### Coding skills
+
+- no coding sills required
+
+| language          | level of expertise required   |
+|-------------------|-------------------------------|
+| python            | beginner / confirmed / expert |
+| javascript        | beginner / confirmed / expert |
+| C++               | beginner / confirmed / expert |
+| java              | beginner / confirmed / expert |
+| unix command line | beginner / confirmed / expert |
+| other             | beginner / confirmed / expert |
+
+### software specific sills
+
+- no software specific sills required
+
+| software   | level of expertise required   |
+|------------|-------------------------------|
+| SPM        | beginner / confirmed / expert |
+| FSL        | beginner / confirmed / expert |
+| Freesurfer | beginner / confirmed / expert |
+| AFNI       | beginner / confirmed / expert |
+| ANTs       | beginner / confirmed / expert |
+| Nipype     | beginner / confirmed / expert |
+| other      | beginner / confirmed / expert |
+
+### GIT / GITHUB skills required
+
+- no software specific sills required
+
+| level   | description                                                                       |
+|---------|-----------------------------------------------------------------------------------|
+| GIT - 0 | no prior git knowledge                                                            |
+| GIT - 1 | can commit and push to a repository                                               |
+| GIT - 2 | comfortable working with branches and can do a pull request on another repository |
+| GIT - 3 | can work with continuous integration                                              |
 
 ## Integration
 How would your project integrate a physicist/imager/clinician/psychologist/computational scientist/maker/artist/lawyer as collaborator?
@@ -27,7 +74,7 @@ Try to define intermediate goals (milestones).
 Provide links to preparation material/online tutorials. You can, for example, have a look at the [OHBM  list of online tutorials](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md).
 
 ## Link to your GitHub repo
-[YourGitHubRepo](https://github.com/yourUserName/yourRepo) with a [REAME.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing: 
+[YourGitHubRepo](https://github.com/yourUserName/yourRepo) with a [REAME.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing:
 * project idea and context;
 * installation guidelines if applicable;  
 * links to further reading/tutorials;   
@@ -36,7 +83,7 @@ Provide links to preparation material/online tutorials. You can, for example, ha
 ## Communication
 Link to the communication channel for your project.
 
-You can, for example, create a Slack channel for your project inside the [OpenMR Slack Workspace](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU), and include a Slack badge <a href="https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU"><img style="float: right;" src="https://img.shields.io/badge/chat-on%20slack-red"></a> to invite people to OpenMR Slack, where they can then find and join your channel. 
+You can, for example, create a Slack channel for your project inside the [OpenMR Slack Workspace](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU), and include a Slack badge <a href="https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU"><img style="float: right;" src="https://img.shields.io/badge/chat-on%20slack-red"></a> to invite people to OpenMR Slack, where they can then find and join your channel.
 
-Or create a community on [gitter](https://gitter.im/) and link to the chat by including a Gitter badge linking to your community 
+Or create a community on [gitter](https://gitter.im/) and link to the chat by including a Gitter badge linking to your community
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/yourRoom/Lobby#)
